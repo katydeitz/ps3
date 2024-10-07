@@ -1,5 +1,5 @@
 # Open the CSV file
-with open('CO-OPS_8727520_wl.csv', 'r') as file:
+with open('/blue/bsc4452/share/Class_Files/data/CO-OPS_8727520_wl.csv', 'r') as file:
     highest_level = float('-inf')  # Initialize to negative infinity to find the max
     highest_date_time = None       # To store the date and time of the highest water level
 
