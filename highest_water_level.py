@@ -1,7 +1,7 @@
 # Open the file and initialize variables
 highest_water_level = None
 highest_water_level_date_time = ""
-file_path = '/blue/bsc4452/share/Class_Files/data/CO-OPS__8729108__wl.csv'
+file_path = '/blue/bsc4452/share/Class_Files/data/CO-OPS__8727520_wl.csv'
 
 # Open the CSV file for reading
 with open(file_path, 'r') as file:
