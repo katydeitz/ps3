@@ -1,5 +1,6 @@
 # ps3
 Problem 1 (5 pts): highest_water4.py
+
 Write a script (or Jupyter Notebook code block) that opens the file, uses a for loop to read through the file line by line and, after finishing reading through the file, reports the highest water level and the date and time that was observed.
 
  
