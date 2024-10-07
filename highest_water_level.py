@@ -17,7 +17,7 @@ with open(file_path, 'r') as file:
         date = columns[0]
         time = columns[1]
         try:
-            water_level = float(columns[3])  # Convert water level to a float
+            water_level = float(columns[4])  # Convert water level to a float
         except ValueError:
             continue  # Skip lines with invalid water level values
 
