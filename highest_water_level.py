@@ -1,9 +1,10 @@
 # Open the file and initialize variables
 highest_water_level = None
 highest_water_level_date_time = ""
+file_path = 'data/CO-OPS__8729108__wl.csv'
 
 # Open the CSV file for reading
-with open('CO-OPS_8727520_wl.csv', 'r') as file:
+with open(file_path, 'r') as file:
     # Skip the header row (assuming the first row is a header)
     next(file)
 
