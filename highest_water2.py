@@ -8,6 +8,9 @@ with open('/blue/bsc4452/share/Class_Files/data/CO-OPS_8727520_wl.csv', 'r') as 
 
     # Loop through each line in the file
     for line in file:
+        #Strip any leading/trailing spaces or newlines
+        line = line.strip()
+        
         # Split the line by commas to extract the fields
         columns = line.split(',')
 
