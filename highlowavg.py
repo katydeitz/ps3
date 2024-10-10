@@ -9,7 +9,7 @@ total_levels = 0               # Sum of all valid water levels
 valid_level_count = 0          # Number of valid water level entries
 
 # Open the CSV file
-with open('CO-OPS_8727520_wl.csv', 'r', encoding='utf-8') as file:
+with open('/blue/bsc4452/share/data/Class_Files/CO-OPS_8727520_wl.csv', 'r', encoding='utf-8') as file:
     reader = csv.reader(file)
 
     highest_date_time = None   # To store the date and time of the highest water level
