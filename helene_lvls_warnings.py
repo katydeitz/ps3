@@ -15,7 +15,7 @@ previous_water_level = None   # To track the previous water level for comparison
 previous_time = None          # To store the date and time of the previous water level
 
 # Open the CSV file
-with open('/blue/bsc4452/share/Class_files/data/CO-OPS_8727520_wl.csv', 'r', encoding='utf-8') as file:
+with open('/blue/bsc4452/share/Class_Files/data/CO-OPS_8727520_wl.csv', 'r', encoding='utf-8') as file:
     reader = csv.reader(file)
 
     highest_date_time = None   # To store the date and time of the highest water level
