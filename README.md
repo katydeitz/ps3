@@ -1,6 +1,6 @@
-# ps3 
-# Use script "helene_lvls_warnings.py" for all problems in ps3;
-# Group members: Katy Deitz
+# ps3: Group members: Katy Deitz
+# Use script "helene_lvls_warnings.py" located in /blue/bsc4452/katydeitz/ps3/ps3/helene_lvls_warnings.py for all problems in ps3;
+ 
 
 ## Problem 1 (5 pts): 
 
