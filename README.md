@@ -1,5 +1,8 @@
-# ps3
-## Problem 1 (5 pts): highest_water4.py
+# ps3 
+# Use script "helene_lvls_warnings.py" for all problems in ps3;
+# Group members: Katy Deitz
+
+## Problem 1 (5 pts): 
 
 Write a script (or Jupyter Notebook code block) that opens the file, uses a for loop to read through the file line by line and, after finishing reading through the file, reports the highest water level and the date and time that was observed.
 
